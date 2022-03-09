@@ -1,0 +1,9 @@
+﻿  Source.cpp
+  The contents of <filesystem> are available only with C++17 or later.
+     Creating library C:\Users\soory\OneDrive\Desktop\dllCheck\ChechDLL\x64\Release\ChechDLL.lib and object C:\Users\soory\OneDrive\Desktop\dllCheck\ChechDLL\x64\Release\ChechDLL.exp
+  Generating code
+  4 of 180 functions ( 2.2%) were compiled, the rest were copied from previous compilation.
+    1 functions were new in current compilation
+    1 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  ChechDLL.vcxproj -> C:\Users\soory\OneDrive\Desktop\dllCheck\ChechDLL\x64\Release\ChechDLL.dll

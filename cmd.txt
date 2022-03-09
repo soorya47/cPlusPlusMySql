@@ -1,0 +1,1 @@
+java Check -Djava.library.path= "C:\Users\soory\OneDrive\Desktop\c--MySql\dllCheck"
